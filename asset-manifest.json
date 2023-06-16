@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Increment-Decrement-Operation/static/css/main.bb47e749.css",
+    "main.js": "/Increment-Decrement-Operation/static/js/main.29ab0cab.js",
+    "index.html": "/Increment-Decrement-Operation/index.html",
+    "main.bb47e749.css.map": "/Increment-Decrement-Operation/static/css/main.bb47e749.css.map",
+    "main.29ab0cab.js.map": "/Increment-Decrement-Operation/static/js/main.29ab0cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb47e749.css",
+    "static/js/main.29ab0cab.js"
+  ]
+}
